@@ -1,6 +1,11 @@
 # vuejs-vuex-for-dummies 
 
-
+[![Build Status](https://travis-ci.org/dj0nny/vuejs-vuex-for-dummies.svg?branch=develop)](https://travis-ci.org/dj0nny/vuejs-vuex-for-dummies)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/08ce4f64-a273-48c6-82b5-869a7c4562c6/deploy-status)](https://app.netlify.com/sites/fervent-brown-eb1282/deploys)
+[![npm version](https://badge.fury.io/js/vue.svg)](https://badge.fury.io/js/vue)
+[![npm version](https://badge.fury.io/js/vuex.svg)](https://badge.fury.io/js/vuex)
+[![vue](https://img.shields.io/badge/build%20with-vue-blue.svg)](https://img.shields.io/badge/build%20with-vue-blue.svg)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
 > A Vue.js app with Vuex: a centralized state manager for Vue
 
@@ -46,6 +51,18 @@ yarn serve
 ```
 
 for running the application.
+
+## Deploying
+
+You can create a optimized build version of this repository running:
+
+```bash
+npm run build
+# OR
+yarn build
+```
+Or you can see a deployed version on [Netlify](https://netlify.com) at this URL: https://fervent-brown-eb1282.netlify.com/#/
+
 
 ## Setup Vuex
 
